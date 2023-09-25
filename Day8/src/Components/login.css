@@ -1,0 +1,97 @@
+.log_for{
+background-image: url('https://images.pexels.com/photos/6876590/pexels-photo-6876590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+background-size: cover;
+background-attachment: fixed;
+max-width: 100%;
+height: 100vh;
+}
+
+.login-box {
+    max-width: 4553px;
+    padding: 40px 96px;
+    position: fixed;
+    background: #f8fafc;
+    border-radius: 16px;
+    color: #2a1616;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .login {
+    
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px 20px;
+    gap: 16px;
+    text-align: center;
+  }
+  .title {
+    font-weight: bold;
+    font-size: 1.6rem;
+  }
+  .subtitle {
+    font-size: 1rem;
+    color: #666;
+  }
+.login-container 
+{
+    overflow: hidden;
+    border-radius: 8px;
+    background-color: #fff;
+    margin: 1rem 0 .5rem;
+    width: 100%;
+} 
+.input 
+{
+    background: none;
+    border: 30;
+    outline: 0;
+    height: 40px;
+    width: 110%;
+    border-bottom: 4px solid #d21d1d;
+    font-size: .9rem;
+    padding: 28px px;
+}
+  
+.login-section 
+{
+    
+    padding: 21px;
+    padding-top: 8px;
+    font-size: .99rem;
+    background-color: #e2e9f2;
+    
+    box-shadow: rgb(0 0 0 / 8%) 0 -1px;
+}
+  
+  .login-section a {
+    font-weight: bold;
+   
+    color: #ea2929;
+    transition: color .3s ease;
+  }
+  
+  .login-section a:hover {
+    color: #270b0b;
+    text-decoration: underline;
+  }
+  .login button {
+    background-color: #387fe9;
+    color: #fff;
+    border: 0;
+    border-radius: 24px;
+    padding: 10px 16px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color .3s ease;
+  }
+  
+.login button:hover {
+    background-color: #005ce6;
+  
+  }
