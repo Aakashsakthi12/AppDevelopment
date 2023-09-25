@@ -1,0 +1,100 @@
+.navbar {
+    background-color: #f5f2f2;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  .body
+  {
+    background-image: url(https://plus.unsplash.com/premium_photo-1678240508014-d1ab7345bfe6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1942&q=80);
+  }
+  .logo {
+    -webkit-text-stroke: 1px #000000;
+    color: transparent;
+    font-family: "Inconsolata", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center; /* Centering vertically */
+  }
+  
+  .nav-links li {
+    margin: 0 10px;
+  }
+  
+  .nav-links a {
+    color: #000000;
+    font-family: "Imbue", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Added styles for Contact Us and Knowledge Hub */
+  .nav-links li:nth-child(2) a,
+  .nav-links li:nth-child(3) a {
+    color: #000000;
+    font-family: "Imbue", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .nav-links li:nth-child(2) a:hover,
+  .nav-links li:nth-child(3) a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Media Query for Tablet and Mobile */
+  @media screen and (max-width: 768px) {
+    .navbar {
+      flex-direction: column; /* Stack items vertically */
+      height: auto; /* Adjust height dynamically */
+    }
+  
+    .nav-links {
+      flex-direction: column; /* Stack items vertically */
+      text-align: center; /* Center align text */
+      margin-top: 1000px; /* Add some space between logo and links */
+    }
+  
+    .nav-links li {
+      margin: 5px 0; /* Add some space between links */   
+    }
+  }
+  
+  .para2{
+    font-family: 'Satisfy', cursive;
+    font-size: 38px;
+}
+.st{
+    
+    height: 50%;
+    width: 40%;
+    border-radius: 5%;
+}
+.wrapper{
+    height: 100vh;
+}
+.card-img-top{
+    max-width: 100px;
+    max-width: 100px;
+}
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
