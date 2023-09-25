@@ -1,0 +1,221 @@
+/* LandingPage.css */
+
+.LandingPage {
+    width: 1280px;
+    height: 720px;
+    position: relative;
+    background: white;
+  }
+  
+  .Rectangle1 {
+    width: 1280px;
+    height: 773px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: white;
+  }
+  
+  .Converted011 {
+    width: 160px;
+    height: 94px;
+    left: 562px;
+    top: 14px;
+    position: absolute;
+  }
+  
+  .Vector {
+    width: 11.90px;
+    height: 17px;
+    left: 98px;
+    top: 45px;
+    position: absolute;
+    background: #e0b279;
+  }
+  
+  .Sector77GurugramHaryana122004 {
+    left: 119px;
+    top: 38px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Add styling for other classes similarly */
+  
+  .Line1 {
+    width: 25px;
+    height: 0;
+    left: 1057px;
+    top: 45px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #b3b3b3 solid;
+  }
+  
+  .Arrow1 {
+    width: 18px;
+    height: 0;
+    left: 1159px;
+    top: 59px;
+    position: absolute;
+    border: 1px #e0b279 solid;
+  }
+  
+  .Line2 {
+    width: 1221px;
+    height: 0;
+    left: 29px;
+    top: 111px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .Group7 {
+    width: 662px;
+    height: 16px;
+    left: 309px;
+    top: 127px;
+    position: absolute;
+  }
+  
+  .ContactUs {
+    left: 589px;
+    top: 0;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Group6 {
+    width: 48px;
+    height: 16px;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+  
+  .Home {
+    left: 0;
+    top: 0;
+    position: absolute;
+    color: #e0b279;
+    font-size: 12px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Add styling for other classes similarly */
+  
+  .ExploreLikeATravellerStayLikeATourist {
+    left: 420px;
+    top: 386px;
+    position: absolute;
+    text-align: center;
+    color: #fdfdfd;
+    font-size: 40px;
+    font-family: 'Palatino Linotype';
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Converted011 {
+    width: 190px;
+    height: 111.79px;
+    left: 547px;
+    top: 243px;
+    position: absolute;
+  }
+  
+  .WelcomeTo {
+    left: 572px;
+    top: 193px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: 'Palatino Linotype';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Group10 {
+    width: 296px;
+    height: 40px;
+    left: 492px;
+    top: 538px;
+    position: absolute;
+  }
+  
+  .Group9 {
+    width: 140px;
+    height: 40px;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+  
+  .Rectangle3 {
+    width: 140px;
+    height: 40px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #e0b279;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+  }
+  
+  .Explore {
+    left: 38px;
+    top: 10px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    text-transform: uppercase;
+    word-wrap: break-word;
+  }
+  
+  .Group8 {
+    width: 140px;
+    height: 40px;
+    left: 156px;
+    top: 0;
+    position: absolute;
+  }
+  
+  .Rectangle4 {
+    width: 140px;
+    height: 40px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    border: 1px #e0b279 solid;
+  }
+  
+  .BookNow {
+    left: 29px;
+    top: 10px;
+    position: absolute;
+    text-align: center;
+    color: rgb(216, 51, 51);
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    text-transform: uppercase;
+    word-wrap: break-word;
+  }
+  
